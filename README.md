@@ -9,7 +9,7 @@ Prometheus exporter for CPUIdle driver metrics exposed by **Linux** kernel. \
 
 ```bash
 docker run -d \
-  -p 9975:9975
+  -p 9975:9975 \
   ghcr.io/masan4444/cpuidle-exporter:latest
 ```
 
