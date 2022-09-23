@@ -5,7 +5,7 @@ Prometheus exporter for CPUIdle driver metrics exposed by **Linux** kernel. \
 
 ## Installation and Usage
 
-### using Docker
+### using [Docker image](https://github.com/masan4444/cpuidle_exporter/pkgs/container/cpuidle-exporter)
 
 ```bash
 docker run -d \
